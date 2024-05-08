@@ -1,0 +1,28 @@
+body{
+    background-color:indigo;
+}
+
+legend {
+    background-color:dodgerblue;
+    color: white;
+    padding: 5px 10px;
+  }
+
+  input {
+    margin: 5px;
+  }
+fieldset{
+    background-color:blanchedalmond;
+}
+#sub{
+    background-color:green;
+    padding: 0.5%;
+    color: aliceblue;
+    border-radius: 25px;
+}
+#sliding_text{
+  color:azure;
+  position: absolute;
+  bottom: 0;
+}
+  
